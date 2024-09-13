@@ -1,6 +1,8 @@
-# Hi there, I'm Haider Alzoubi 👋
+<h1 align="center">Hi there, I'm Haider Alzoubi 👋</h1>
 
-I'm a dedicated **Computer Science undergraduate student** at the **University of Illinois at Chicago**. I'm dedicated about programming, problem solving, and continually improving my skills. I enjoy working on projects that challenge me and allow me to learn new things.
+<p align="center">
+I'm a dedicated <strong>Computer Science undergraduate student</strong> at the <strong>University of Illinois at Chicago</strong>. I'm passionate about programming, problem solving, and continually improving my skills.
+</p>
 
 ## 🛠️ Languages & Tools
 - **Languages**: C, C++, Java, HTML, CSS, JavaScript, Python
