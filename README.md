@@ -5,7 +5,7 @@ I'm a dedicated <strong>Computer Science undergraduate student</strong> at the <
 </p>
 
 ## 🛠️ Languages & Tools
-- **Languages**: C, C++, Java, HTML, CSS, JavaScript, Python
+- **Languages**: C, C++, Java, HTML, CSS, JavaScript, Python, F#, SQL
 - **Tools & Technologies**: Figma, Arduino
 
 ## 🤝 Connect With Me
