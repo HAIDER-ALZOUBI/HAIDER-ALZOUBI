@@ -2,9 +2,13 @@
 
 <p align="center">
 I'm a dedicated <strong>Computer Science undergraduate student</strong> at the <strong>University of Illinois at Chicago</strong>. I'm passionate about programming, problem solving, and continually improving my skills.
+</p>
 
+<p align="center">
 Currently, I’m focused on developing scalable applications, optimizing algorithms, and contributing to open-source projects. I have experience working with Java, C++, Python, SQL, and web technologies like HTML, CSS, and JavaScript. My projects range from building multiplayer games, messaging applications, and creating full stack web applications.
+</p>
 
+<p align="center">
 I enjoy collaborating with other developers and contributing to the tech community. My goal is to better my problem solving skills and technical expertise to build efficient and impactful software solutions. I'm particularly interested in software engineering, artificial intelligence, web developing, and networking.
 </p>
 
