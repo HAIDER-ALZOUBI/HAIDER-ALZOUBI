@@ -1,21 +1,45 @@
 <h1 align="center">Hi there, I'm Haider Alzoubi 👋</h1>
 
-<p align="center">
-I'm a dedicated <strong>Computer Science undergraduate student</strong> at the <strong>University of Illinois at Chicago</strong>. I'm passionate about programming, problem solving, and continually improving my skills.
-</p>
+## 👋 About Me
 
-<p align="center">
-Currently, I’m focused on developing scalable applications, optimizing algorithms, and contributing to open-source projects. I have experience working with Java, C++, Python, SQL, and web technologies like HTML, CSS, and JavaScript. My projects range from building multiplayer games, messaging applications, and creating full stack web applications.
-</p>
+I’m a Computer Science senior at the University of Illinois at Chicago focused on building real, usable software.
 
-<p align="center">
-I enjoy collaborating with other developers and contributing to the tech community. My goal is to better my problem solving skills and technical expertise to build efficient and impactful software solutions. I'm particularly interested in software engineering, artificial intelligence, web developing, and networking.
-</p>
+I develop full-stack applications and backend systems that work with real data and real users. I’ve built and deployed a mobile social discovery app (**Ping**) where beta testers reviewed actual locations, and a video-processing platform (**Clipper**) that automatically generates highlight clips from long-form YouTube and Twitch streams using engagement detection. I’ve also created production websites for local businesses that are actively used by customers.
 
-## 🛠️ Languages & Tools
-- **Languages**: C, C++, Java, HTML, CSS, JavaScript, Python, F#, SQL
-- **Tools & Technologies**: Figma, Arduino
+---
 
+## 🛠️ Technical Experience
+
+**Languages:** Python, C#, Java, C++, TypeScript, SQL  
+**Frameworks & Tools:** .NET, React, React Native, FastAPI, REST APIs, Git  
+**Databases:** PostgreSQL, SQLite, Redis  
+
+My work involves backend APIs, database design, caching, and application performance optimization. I’m especially interested in backend and full-stack engineering — designing systems, handling data, and turning ideas into reliable products.
+
+---
+
+## 🚀 Interests
+
+- Backend Engineering
+- Full-Stack Development
+- System Design
+- Applied AI
+- Data-Driven Applications
+
+---
+
+## 🤝 Opportunities
+
+I enjoy collaborative development and solving practical problems through software.  
+I’m currently seeking **Software Engineering internship or entry-level opportunities** where I can contribute and continue growing as an engineer.
+
+---
+
+## 📫 Contact
+
+- Email: haiderzoubi05@gmail.com  
+- LinkedIn: https://linkedin.com/in/haiderzoubi  
+- GitHub: https://github.com/HAIDER-ALZOUBI
 ## 🤝 Connect With Me
 - **My LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haiderzoubi/)
 - **My Experience**: [Resume](https://docs.google.com/document/d/1N86NV9JjEA97SU9lJmHwvxJxatyMJavXZkz5neUZg8s/edit?usp=sharing)
