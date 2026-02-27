@@ -40,10 +40,6 @@ I’m currently seeking **Software Engineering internship or entry-level opportu
 - Email: haiderzoubi05@gmail.com  
 - LinkedIn: https://linkedin.com/in/haiderzoubi  
 - GitHub: https://github.com/HAIDER-ALZOUBI
-## 🤝 Connect With Me
-- **My LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haiderzoubi/)
-- **My Experience**: [Resume](https://docs.google.com/document/d/1N86NV9JjEA97SU9lJmHwvxJxatyMJavXZkz5neUZg8s/edit?usp=sharing)
-- **My Email**: haiderzoubi05@gmail.com
 
 Thanks for stopping by!
 
